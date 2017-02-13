@@ -9,3 +9,4 @@
 
 ## Useful Link
 * - [Packettotal](http://www.packettotal.com/) 
+* - [pyiatrebuild - Use this library to automatically rebuild the import address table for a PE dumped from memory. It also be used to fully dump and rebuild a PE from memory.](https://github.com/OALabs/PyIATRebuild)
