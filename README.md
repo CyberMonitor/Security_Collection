@@ -6,3 +6,4 @@
 
 ## Security Best Practice
 * 2016 Dec XX - [Smartphone Secure Development Guidelines](www.enisa.europa.eu/publications/smartphone-secure-development-guidelines-2016/at_download/fullReport) |  [Local](../master/Security_Best_Practice_Folder/WP2016 3-2 12 Smartphone Secure Development Guidelines.pdf)
+
