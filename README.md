@@ -8,7 +8,8 @@
 ## Security Best Practice
 * 2016 Dec XX - [Smartphone Secure Development Guidelines](www.enisa.europa.eu/publications/smartphone-secure-development-guidelines-2016/at_download/fullReport) |  [Local](../master/Security_Best_Practice_Folder/WP2016 3-2 12 Smartphone Secure Development Guidelines.pdf)
 
-## Useful Link
+## Useful Links
 * [Packettotal](http://www.packettotal.com/) 
 * [pyiatrebuild - Use this library to automatically rebuild the import address table for a PE dumped from memory. It also be used to fully dump and rebuild a PE from memory.](https://github.com/OALabs/PyIATRebuild)
-* [Good Reverse Engineering website](https://0x00sec.org/)
+* [0x00sec - Good Reverse Engineering website](https://0x00sec.org/)
+* [pwntools - CTF framework and exploit development library ](https://github.com/Gallopsled/pwntools#readme)
