@@ -10,6 +10,9 @@
 
 ## Useful Links
 * [Packettotal](http://www.packettotal.com/) 
+* [networktotal - Networktotal is a service that analyzes pcap files and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware detected by Intrusion Detection Engines and their rulesets](https://www.networktotal.com/)
 * [pyiatrebuild - Use this library to automatically rebuild the import address table for a PE dumped from memory. It also be used to fully dump and rebuild a PE from memory.](https://github.com/OALabs/PyIATRebuild)
 * [0x00sec - Good Reverse Engineering website](https://0x00sec.org/)
 * [pwntools - CTF framework and exploit development library ](https://github.com/Gallopsled/pwntools#readme)
+* [oalabs - Open Analysis Live:](https://vimeo.com/oalabs)
+* [Malcom - Malware Communication Analyzer](https://github.com/tomchop/malcom)
