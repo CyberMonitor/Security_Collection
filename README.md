@@ -24,5 +24,11 @@
 * [Malcom - Malware Communication Analyzer](https://github.com/tomchop/malcom)
 * [ripPE - ripPE.py helps you get at the data you want ("rip") from a Portable Exectuable (PE).](https://github.com/matonis/ripPE)
 * [Edward - A library for probabilistic modeling, inference, and criticism.](http://edwardlib.org/)
+* [Team Shellphish - Cyber Grand Shellphish (2017-01-25)](http://phrack.org/papers/cyber_grand_shellphish.html) |  [Local](../master/CTF_and_WriteUP/___ Phrack Magazine ___.pdf)
+* [Security Geek Part-A 安全客 2016 年- 上](http://bobao.360.cn/download/book/security-geek-2016-A.pdf) 
+* [Security Geek Part-A 安全客 2016 年- 下](http://bobao.360.cn/download/book/security-geek-2016-B.pdf) 
+* [crackle – Crack Bluetooth Smart Encryption (BLE)](http://www.darknet.org.uk/2017/02/crackle-crack-bluetooth-smart-encryption-ble/)|  [Local](../master/CTF_and_WriteUP/crackle - Crack Bluetooth Smart Encryption (BLE) - Darknet.pdf)
+* [Datasploit: a tool for various OSINT techniques](https://github.com/DataSploit/datasploit) 
+
 
 
