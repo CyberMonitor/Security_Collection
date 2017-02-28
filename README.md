@@ -9,6 +9,7 @@
 
 ## Security Best Practice
 * 2016 Dec XX - [Smartphone Secure Development Guidelines](www.enisa.europa.eu/publications/smartphone-secure-development-guidelines-2016/at_download/fullReport) |  [Local](../master/Security_Best_Practice_Folder/WP2016 3-2 12 Smartphone Secure Development Guidelines.pdf)
+* [Homeland of Things Framework](https://www.gitbook.com/book/reaperb0t/homeland-of-things-framework/details) [Local](../master/Security_Best_Practice_Folder/homeland-of-things-framework.pdf)
 
 ## CTF and Write UP 
 * [Hacking IMF – CTF](http://resources.infosecinstitute.com/hacking-imf-ctf/)|  [Local](../master/CTF_and_WriteUP/Hacking IMF – CTF.pdf)
@@ -19,6 +20,18 @@
 * [Packettotal](http://www.packettotal.com/) 
 * [networktotal - Networktotal is a service that analyzes pcap files and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware detected by Intrusion Detection Engines and their rulesets](https://www.networktotal.com/)
 * [gitleaks - Search engine for exposed secrets on](https://gitleaks.com)
+
+### Samples/PCAPs
+* [A source for pcap files and malware samples](http://malware-traffic-analysis.net/index.html)
+
+### Sandbox Analysis
+* [This webpage is a free malware analysis service powered by Payload Security ](https://www.hybrid-analysis.com)
+
+### Forecasting Tools
+* [Rob Hyndman’s excellent forecast package in R](http://robjhyndman.com/software/forecast/)
+* [CausalImpact - An R package for causal inference in time series](https://google.github.io/CausalImpact/) 
+* [AnomalyDetection R package](https://github.com/twitter/AnomalyDetection)
+
 
 ### Others
 * [pyiatrebuild - Use this library to automatically rebuild the import address table for a PE dumped from memory. It also be used to fully dump and rebuild a PE from memory.](https://github.com/OALabs/PyIATRebuild)
