@@ -1,0 +1,11 @@
+http://blog.talosintelligence.com/2017/05/konni-malware-under-radar-for-years.html
+http://blog.talosintelligence.com/2017/05/konni-malware-under-radar-for-years.html
+http://www.hackingarticles.in/hack-the-defense-space-vm-ctf-challengehack-defense-vm-ctf-challenge/
+http://blog.fortinet.com/2017/05/03/deep-analysis-of-new-emotet-variant-part-1
+http://resources.infosecinstitute.com/cisco-2017-cyber-security-report/
+http://schedule.esc-boston.com/session/vulnerabilities-in-iot-insecure-design-patterns-and-steps-to-improving-device-security
+https://www.fireeye.com/blog/threat-research/2017/05/fin7-shim-databases-persistence.html
+https://gist.github.com/hubgit/6078384
+http://www.kahusecurity.com/2016/script-deobfuscator-released/
+http://www.kahusecurity.com/2016/script-deobfuscator-released/
+https://www.theregister.co.uk/2017/05/03/hackers_fire_up_ss7_flaw/
